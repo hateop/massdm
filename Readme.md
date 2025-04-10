@@ -52,7 +52,7 @@ cd massdm
 ### 2. Install Dependencies
 
 ```bash
-npm install
+npm install discord.js
 ```
 
 ---
